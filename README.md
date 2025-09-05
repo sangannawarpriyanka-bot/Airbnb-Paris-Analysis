@@ -1,3 +1,5 @@
+![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+
 # 🏠 Airbnb Paris Analysis
 
 This project explores the evolution of the Airbnb market in Paris, focusing on how regulations, locality trends, and pricing dynamics have influenced both **host participation** and **customer demand**.  
