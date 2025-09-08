@@ -1,9 +1,8 @@
 ![Paris Airbnb View](https://www.investplusaccounting.com.au/wp-content/uploads/2024/04/Renting-out-on-Air-BnB-scaled.jpg)
 
-## Check out my Project here:
-[click here to view the project](https://www.kaggle.com/code/priyankashirgupe/airbnb-python-project)
+Check out my Project here:
+![click here to view the project](https://www.kaggle.com/code/priyankashirgupe/airbnb-python-project)
 
-https://www.kaggle.com/code/priyankashirgupe/airbnb-python-project
 
 # 🏠 Airbnb Paris Analysis
 
